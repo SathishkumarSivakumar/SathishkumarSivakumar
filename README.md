@@ -1,20 +1,26 @@
-<h1 align="center">Hi there, I'm Sathishkumar S 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+Engineer;Machine+Learning+%7C+NLP+%7C+Power+BI;Turning+Raw+Data+Into+Real+Insights" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0F172A&height=200&section=header&text=Sathishkumar%20S&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Engineer&descAlignY=58&descSize=20" width="100%" />
 
-<p align="center">
+<img src="https://github.com/SathishkumarSivakumar.png" width="130" style="border-radius:50%;" alt="Sathishkumar S" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+Engineer;Machine+Learning+%7C+NLP+%7C+Power+BI;Turning+Raw+Data+Into+Real+Insights" alt="Typing SVG" />
+
+<p>
   <a href="https://sathishkumar-sivakumar.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:kumar109662@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/SathishkumarSivakumar" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=SathishkumarSivakumar&style=for-the-badge&color=blue" alt="Profile views" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-informational?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to-Data%20Science%20%7C%20AI%2FML%20%7C%20BI%20Roles-success?style=flat-square" />
 </p>
+
+</div>
 
 ---
 
@@ -101,7 +107,7 @@ NLP-based sentiment analysis model that predicts customer review sentiment using
 AI-powered mosquito detection system paired with an automated herbal repellent dispenser.
 `Python` `Machine Learning` `Automation`
 
-> 💡 *Replace the placeholder links above with your actual repo URLs once each project repo is public — this alone can noticeably boost a profile's "completeness" score.*
+> 💡 *Replace the placeholder links above with your actual repo URLs once each project repo is public.*
 
 ---
 
@@ -139,6 +145,12 @@ B.E. in Electrical and Electronics Engineering — CGPA: 8.3
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SathishkumarSivakumar&theme=tokyo-night" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SathishkumarSivakumar/SathishkumarSivakumar/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake"/>
+</p>
+
+<p align="center"><i>👆 The snake animation above needs a one-time setup — see the "Fix Images / Enable Snake" note below.</i></p>
+
 ---
 
 ## 🌐 Connect with Me
@@ -150,4 +162,6 @@ B.E. in Electrical and Electronics Engineering — CGPA: 8.3
   <!-- Add your LinkedIn URL here: <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 </p>
 
-<p align="center"><i>⭐️ Open to opportunities in Data Science, AI/ML, and Business Intelligence — let's connect!</i></p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2E9EF7&height=100&section=footer" width="100%"/>
+</div>
