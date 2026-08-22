@@ -9,9 +9,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+Engineer;Machine+Learning+%7C+NLP+%7C+Power+BI;Turning+Raw+Data+Into+Real+Insights" alt="Typing SVG" />
 
 <p>
+  <a href="https://www.linkedin.com/in/sathishkumar-sivakumar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SathishkumarSivakumar" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://sathishkumar-sivakumar.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:kumar109662@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/SathishkumarSivakumar" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+<p>
+  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank"><img src="https://img.shields.io/badge/Naukri-4A90D9?style=for-the-badge&logo=naukri&logoColor=white" /></a>
+  <a href="https://profile.indeed.com/" target="_blank"><img src="https://img.shields.io/badge/Indeed-2164F3?style=for-the-badge&logo=indeed&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=SathishkumarSivakumar&style=for-the-badge&color=blue" alt="Profile views" />
 </p>
 
@@ -156,10 +161,12 @@ B.E. in Electrical and Electronics Engineering — CGPA: 8.3
 ## 🌐 Connect with Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/sathishkumar-sivakumar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SathishkumarSivakumar" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://sathishkumar-sivakumar.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:kumar109662@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/SathishkumarSivakumar" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- Add your LinkedIn URL here: <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank"><img src="https://img.shields.io/badge/Naukri-4A90D9?style=for-the-badge&logo=naukri&logoColor=white" /></a>
+  <a href="https://profile.indeed.com/" target="_blank"><img src="https://img.shields.io/badge/Indeed-2164F3?style=for-the-badge&logo=indeed&logoColor=white" /></a>
 </p>
 
 <div align="center">
