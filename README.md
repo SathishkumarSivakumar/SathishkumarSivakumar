@@ -1,893 +1,755 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Sathishkumar S — Data Science &amp; AI Engineering</title>
-<meta name="description" content="Sathishkumar S — Data Science & AI Engineering portfolio. Python, SQL, Machine Learning, NLP, Power BI." />
+<div align="center">
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1D4ED8,100:38BDF8&height=230&section=header&text=SATHISHKUMAR%20S&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=DATA%20SCIENCE%20%7C%20AI%20%7C%20MACHINE%20LEARNING%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<style>
-  :root{
-    --bg:#070b10;
-    --surface:#0d141b;
-    --surface-2:#111a22;
-    --line:rgba(232,237,242,0.09);
-    --line-strong:rgba(232,237,242,0.16);
-    --text:#e9eef2;
-    --text-muted:#8ea0ac;
-    --text-faint:#5a6b76;
-    --cyan:#5fe3c8;
-    --cyan-dim:rgba(95,227,200,0.14);
-    --amber:#f2a154;
-    --amber-dim:rgba(242,161,84,0.14);
-    --font-display:'Space Grotesk', sans-serif;
-    --font-mono:'IBM Plex Mono', monospace;
-    --font-body:'Inter', sans-serif;
-  }
+<br>
 
-  *{margin:0;padding:0;box-sizing:border-box;}
+<img src="https://github.com/SathishkumarSivakumar.png" width="150" alt="Sathishkumar S">
 
-  html{scroll-behavior:smooth;}
+<br><br>
 
-  body{
-    background:var(--bg);
-    color:var(--text);
-    font-family:var(--font-body);
-    line-height:1.6;
-    overflow-x:hidden;
-  }
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Data+Science+%26+AI+Engineer;Machine+Learning+%7C+NLP+%7C+Power+BI;Python+%7C+SQL+%7C+Pandas+%7C+Scikit-Learn;Turning+Raw+Data+Into+Business+Insights;Building+Data-Driven+Solutions+That+Matter" alt="Typing SVG">
 
-  ::selection{background:var(--cyan); color:#04110d;}
+<br><br>
 
-  a{color:inherit; text-decoration:none;}
+<a href="https://www.linkedin.com/in/sathishkumar-sivakumar/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-  img{max-width:100%; display:block;}
+<a href="https://github.com/SathishkumarSivakumar">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-  .wrap{
-    max-width:1120px;
-    margin:0 auto;
-    padding:0 32px;
-  }
+<a href="https://sathishkumar-sivakumar.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 
-  /* ---------- scanline / grid texture ---------- */
-  .grid-overlay{
-    position:fixed; inset:0;
-    background-image:
-      linear-gradient(rgba(232,237,242,0.028) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(232,237,242,0.028) 1px, transparent 1px);
-    background-size:42px 42px;
-    pointer-events:none;
-    z-index:1;
-    mask-image:radial-gradient(ellipse 80% 60% at 50% 0%, black 40%, transparent 90%);
-  }
+<a href="mailto:kumar109662@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-  /* ---------- nav ---------- */
-  header{
-    position:fixed; top:0; left:0; right:0;
-    z-index:50;
-    backdrop-filter:blur(10px);
-    background:rgba(7,11,16,0.72);
-    border-bottom:1px solid var(--line);
-  }
-  .nav{
-    display:flex; align-items:center; justify-content:space-between;
-    padding:18px 32px;
-    max-width:1120px; margin:0 auto;
-  }
-  .logo{
-    font-family:var(--font-mono);
-    font-size:14px; font-weight:600;
-    letter-spacing:0.02em;
-    display:flex; align-items:center; gap:8px;
-  }
-  .logo .dot{
-    width:7px;height:7px;border-radius:50%;
-    background:var(--cyan);
-    box-shadow:0 0 8px var(--cyan);
-    animation:pulse 2.4s ease-in-out infinite;
-  }
-  @keyframes pulse{
-    0%,100%{opacity:1;} 50%{opacity:0.35;}
-  }
-  nav ul{
-    list-style:none; display:flex; gap:36px;
-  }
-  nav a{
-    font-family:var(--font-mono);
-    font-size:12.5px;
-    color:var(--text-muted);
-    letter-spacing:0.04em;
-    text-transform:uppercase;
-    transition:color .2s ease;
-    position:relative;
-  }
-  nav a::before{content:'· ';color:var(--cyan); opacity:0;}
-  nav a:hover{color:var(--text);}
-  nav a:hover::before{opacity:1;}
-  .nav-links{display:flex; align-items:center; gap:36px;}
-  .nav-cta{
-    font-family:var(--font-mono);
-    font-size:12px;
-    padding:8px 16px;
-    border:1px solid var(--line-strong);
-    border-radius:3px;
-    color:var(--text);
-  }
-  .nav-cta:hover{border-color:var(--cyan); color:var(--cyan);}
-  .menu-btn{display:none;}
+<br><br>
 
-  /* ---------- hero ---------- */
-  .hero{
-    position:relative;
-    min-height:100vh;
-    display:flex; align-items:center;
-    padding-top:90px;
-    overflow:hidden;
-  }
-  #hero-canvas{
-    position:absolute; inset:0;
-    z-index:0;
-    opacity:0.9;
-  }
-  .hero-inner{
-    position:relative; z-index:2;
-    width:100%;
-  }
-  .eyebrow{
-    font-family:var(--font-mono);
-    font-size:12.5px;
-    color:var(--cyan);
-    letter-spacing:0.08em;
-    text-transform:uppercase;
-    display:flex; align-items:center; gap:10px;
-    margin-bottom:22px;
-  }
-  .eyebrow::before{
-    content:'';
-    width:22px; height:1px;
-    background:var(--cyan);
-  }
-  h1.hero-title{
-    font-family:var(--font-display);
-    font-weight:600;
-    font-size:clamp(2.4rem, 6vw, 4.6rem);
-    line-height:1.05;
-    letter-spacing:-0.02em;
-    max-width:820px;
-    color:var(--text);
-  }
-  h1.hero-title em{
-    font-style:normal;
-    color:var(--cyan);
-  }
-  .hero-sub{
-    margin-top:26px;
-    max-width:560px;
-    color:var(--text-muted);
-    font-size:16.5px;
-    line-height:1.75;
-  }
-  .hero-actions{
-    margin-top:38px;
-    display:flex; gap:16px; flex-wrap:wrap;
-  }
-  .btn{
-    font-family:var(--font-mono);
-    font-size:13px;
-    padding:13px 24px;
-    border-radius:3px;
-    letter-spacing:0.02em;
-    transition:all .2s ease;
-    display:inline-flex; align-items:center; gap:8px;
-  }
-  .btn-primary{
-    background:var(--cyan);
-    color:#04110d;
-    font-weight:600;
-  }
-  .btn-primary:hover{background:#7cf0d8; transform:translateY(-1px);}
-  .btn-ghost{
-    border:1px solid var(--line-strong);
-    color:var(--text);
-  }
-  .btn-ghost:hover{border-color:var(--text-muted); background:var(--surface);}
+<img src="https://komarev.com/ghpvc/?username=SathishkumarSivakumar&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS">
 
-  .hero-stats{
-    margin-top:72px;
-    display:flex; gap:56px; flex-wrap:wrap;
-    border-top:1px solid var(--line);
-    padding-top:28px;
-    max-width:640px;
-  }
-  .stat-num{
-    font-family:var(--font-display);
-    font-size:2rem; font-weight:600;
-    color:var(--text);
-  }
-  .stat-label{
-    font-family:var(--font-mono);
-    font-size:11.5px;
-    color:var(--text-faint);
-    text-transform:uppercase;
-    letter-spacing:0.05em;
-    margin-top:4px;
-  }
+</div>
 
-  .scroll-cue{
-    position:absolute; bottom:36px; left:32px;
-    font-family:var(--font-mono);
-    font-size:11px;
-    color:var(--text-faint);
-    display:flex; align-items:center; gap:10px;
-    z-index:2;
-  }
-  .scroll-cue .line{
-    width:1px; height:34px;
-    background:linear-gradient(var(--cyan), transparent);
-    animation:scrolldown 1.8s ease-in-out infinite;
-  }
-  @keyframes scrolldown{
-    0%{transform:scaleY(0); transform-origin:top;}
-    50%{transform:scaleY(1); transform-origin:top;}
-    51%{transform-origin:bottom;}
-    100%{transform:scaleY(0); transform-origin:bottom;}
-  }
+---
 
-  /* ---------- section shared ---------- */
-  section{
-    position:relative; z-index:2;
-    padding:120px 0;
-    border-bottom:1px solid var(--line);
-  }
-  .section-head{
-    display:flex; align-items:baseline; gap:18px;
-    margin-bottom:56px;
-  }
-  .section-num{
-    font-family:var(--font-mono);
-    font-size:12.5px;
-    color:var(--cyan);
-  }
-  .section-title{
-    font-family:var(--font-display);
-    font-size:clamp(1.7rem, 3.4vw, 2.5rem);
-    font-weight:600;
-    letter-spacing:-0.01em;
-  }
-  .section-kicker{
-    font-family:var(--font-mono);
-    font-size:12px;
-    color:var(--text-faint);
-    text-transform:uppercase;
-    letter-spacing:0.08em;
-    margin-bottom:10px;
-  }
+# 👋 Hello, I'm Sathishkumar
 
-  /* ---------- skills (query console) ---------- */
-  .console{
-    background:var(--surface);
-    border:1px solid var(--line);
-    border-radius:8px;
-    overflow:hidden;
-  }
-  .console-bar{
-    display:flex; align-items:center; gap:8px;
-    padding:12px 18px;
-    border-bottom:1px solid var(--line);
-    background:var(--surface-2);
-  }
-  .console-bar span{
-    width:10px;height:10px;border-radius:50%;
-    background:var(--line-strong);
-  }
-  .console-bar .title{
-    font-family:var(--font-mono);
-    font-size:12px;
-    color:var(--text-faint);
-    margin-left:8px;
-  }
-  .console-body{
-    padding:32px;
-    font-family:var(--font-mono);
-    font-size:14.5px;
-    line-height:1.9;
-  }
-  .kw{color:var(--cyan);}
-  .str{color:var(--amber);}
-  .cmt{color:var(--text-faint);}
-  .fn{color:#9db4c0;}
+<div align="center">
 
-  .skill-chips{
-    display:flex; flex-wrap:wrap; gap:10px;
-    margin-top:30px;
-  }
-  .chip{
-    font-family:var(--font-mono);
-    font-size:12.5px;
-    padding:8px 14px;
-    border:1px solid var(--line-strong);
-    border-radius:20px;
-    color:var(--text-muted);
-    transition:all .2s ease;
-  }
-  .chip:hover{
-    border-color:var(--cyan);
-    color:var(--cyan);
-    background:var(--cyan-dim);
-  }
+## Data Science & AI Engineer
 
-  /* ---------- projects ---------- */
-  .projects-grid{
-    display:grid;
-    grid-template-columns:repeat(2, 1fr);
-    gap:1px;
-    background:var(--line);
-    border:1px solid var(--line);
-    border-radius:8px;
-    overflow:hidden;
-  }
-  .project-card{
-    background:var(--surface);
-    padding:36px;
-    perspective:900px;
-    transition:background .25s ease;
-  }
-  .project-card.full{grid-column:1 / -1;}
-  .project-card:hover{background:var(--surface-2);}
-  .project-inner{
-    transform-style:preserve-3d;
-    transition:transform .35s ease;
-  }
-  .project-card:hover .project-inner{
-    transform:rotateX(2deg) rotateY(-2deg) translateZ(6px);
-  }
-  .project-tag{
-    font-family:var(--font-mono);
-    font-size:11px;
-    color:var(--amber);
-    text-transform:uppercase;
-    letter-spacing:0.06em;
-    margin-bottom:14px;
-    display:block;
-  }
-  .project-title{
-    font-family:var(--font-display);
-    font-size:1.4rem;
-    font-weight:600;
-    margin-bottom:14px;
-  }
-  .project-desc{
-    color:var(--text-muted);
-    font-size:14.5px;
-    margin-bottom:20px;
-  }
-  .project-stack{
-    display:flex; flex-wrap:wrap; gap:8px;
-    margin-bottom:18px;
-  }
-  .stack-pill{
-    font-family:var(--font-mono);
-    font-size:11px;
-    padding:5px 10px;
-    border-radius:3px;
-    background:var(--cyan-dim);
-    color:var(--cyan);
-  }
-  .project-link{
-    font-family:var(--font-mono);
-    font-size:12.5px;
-    color:var(--text);
-    border-bottom:1px solid var(--line-strong);
-    padding-bottom:2px;
-    display:inline-flex; align-items:center; gap:6px;
-  }
-  .project-link:hover{color:var(--cyan); border-color:var(--cyan);}
+### Turning Raw Data → Insights → Intelligent Solutions
 
-  /* ---------- experience timeline ---------- */
-  .timeline{
-    position:relative;
-    padding-left:32px;
-  }
-  .timeline::before{
-    content:'';
-    position:absolute; left:5px; top:6px; bottom:6px;
-    width:1px;
-    background:var(--line-strong);
-  }
-  .tl-item{
-    position:relative;
-    padding-bottom:44px;
-  }
-  .tl-item:last-child{padding-bottom:0;}
-  .tl-item::before{
-    content:'';
-    position:absolute; left:-32px; top:5px;
-    width:11px; height:11px; border-radius:50%;
-    background:var(--bg);
-    border:2px solid var(--cyan);
-  }
-  .tl-date{
-    font-family:var(--font-mono);
-    font-size:11.5px;
-    color:var(--text-faint);
-    text-transform:uppercase;
-    letter-spacing:0.05em;
-    margin-bottom:6px;
-  }
-  .tl-role{
-    font-family:var(--font-display);
-    font-size:1.2rem;
-    font-weight:600;
-  }
-  .tl-org{
-    font-family:var(--font-mono);
-    font-size:12.5px;
-    color:var(--cyan);
-    margin-top:2px;
-    margin-bottom:10px;
-  }
-  .tl-desc{color:var(--text-muted); font-size:14.5px; max-width:600px;}
+</div>
 
-  /* ---------- certifications ---------- */
-  .cert-grid{
-    display:grid;
-    grid-template-columns:repeat(auto-fit, minmax(230px, 1fr));
-    gap:16px;
-  }
-  .cert-card{
-    border:1px solid var(--line);
-    border-radius:8px;
-    padding:24px;
-    background:var(--surface);
-    display:flex; gap:16px; align-items:flex-start;
-  }
-  .cert-icon{
-    font-family:var(--font-mono);
-    font-size:11px;
-    font-weight:600;
-    color:var(--bg);
-    background:var(--cyan);
-    width:38px; height:38px;
-    border-radius:6px;
-    display:flex; align-items:center; justify-content:center;
-    flex-shrink:0;
-  }
-  .cert-name{font-family:var(--font-display); font-weight:600; font-size:1.02rem;}
-  .cert-meta{font-family:var(--font-mono); font-size:11.5px; color:var(--text-faint); margin-top:4px;}
+I'm a **Data Science & AI Engineer** passionate about transforming raw data into meaningful insights and intelligent applications.
 
-  /* ---------- contact ---------- */
-  .contact-section{border-bottom:none;}
-  .contact-grid{
-    display:grid;
-    grid-template-columns:1.2fr 1fr;
-    gap:60px;
-    align-items:start;
-  }
-  .contact-title{
-    font-family:var(--font-display);
-    font-size:clamp(1.9rem, 4vw, 3rem);
-    font-weight:600;
-    line-height:1.15;
-    max-width:520px;
-  }
-  .contact-title .cyan{color:var(--cyan);}
-  .contact-sub{
-    margin-top:20px;
-    color:var(--text-muted);
-    max-width:460px;
-  }
-  .contact-list{margin-top:36px;}
-  .contact-row{
-    display:flex; align-items:center; justify-content:space-between;
-    padding:18px 0;
-    border-top:1px solid var(--line);
-    font-family:var(--font-mono);
-    font-size:13.5px;
-  }
-  .contact-row:last-child{border-bottom:1px solid var(--line);}
-  .contact-row .label{color:var(--text-faint); text-transform:uppercase; font-size:11px; letter-spacing:0.06em;}
-  .contact-row .value{color:var(--text);}
-  .contact-row a.value:hover{color:var(--cyan);}
-  .status-card{
-    border:1px solid var(--line);
-    border-radius:8px;
-    padding:28px;
-    background:var(--surface);
-  }
-  .status-badge{
-    display:inline-flex; align-items:center; gap:8px;
-    font-family:var(--font-mono);
-    font-size:11.5px;
-    color:var(--cyan);
-    text-transform:uppercase;
-    letter-spacing:0.05em;
-    margin-bottom:18px;
-  }
-  .status-badge .dot{width:7px;height:7px;border-radius:50%;background:var(--cyan); box-shadow:0 0 8px var(--cyan); animation:pulse 2.4s ease-in-out infinite;}
-  .status-card p{color:var(--text-muted); font-size:13.5px; margin-bottom:22px;}
+My work focuses on:
 
-  footer{
-    padding:36px 0;
-    text-align:center;
-    font-family:var(--font-mono);
-    font-size:11.5px;
-    color:var(--text-faint);
-  }
+* 🐍 Python & Data Analysis
+* 🗄️ SQL & Database Development
+* 🤖 Machine Learning
+* 🧠 Natural Language Processing
+* 📊 Power BI & Business Intelligence
+* 📈 Predictive Analytics
+* 🔍 Exploratory Data Analysis
+* ⚙️ Data Cleaning & Feature Engineering
 
-  @media (max-width:820px){
-    .nav-links{position:fixed; top:64px; right:0; left:0; background:var(--bg); flex-direction:column; padding:24px 32px; border-bottom:1px solid var(--line); display:none; gap:20px;}
-    .nav-links.open{display:flex;}
-    .menu-btn{display:block; background:none; border:none; color:var(--text); font-size:20px; cursor:pointer;}
-    .projects-grid{grid-template-columns:1fr;}
-    .contact-grid{grid-template-columns:1fr; gap:40px;}
-    .hero-stats{gap:36px;}
-  }
-</style>
-</head>
-<body>
+I enjoy working across the complete data lifecycle — from **raw datasets to production-ready insights and dashboards**.
 
-<div class="grid-overlay"></div>
+---
 
-<header>
-  <div class="nav">
-    <div class="logo"><span class="dot"></span>SATHISHKUMAR.S</div>
-    <div class="nav-links" id="navLinks">
-      <ul>
-        <li><a href="#skills">Skills</a></li>
-        <li><a href="#projects">Work</a></li>
-        <li><a href="#experience">Experience</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-      <a class="nav-cta" href="mailto:kumar109662@gmail.com">Say hello</a>
-    </div>
-    <button class="menu-btn" id="menuBtn" aria-label="Toggle menu">☰</button>
-  </div>
-</header>
+# 🧑‍💻 About Me
 
-<main>
-  <section class="hero">
-    <canvas id="hero-canvas"></canvas>
-    <div class="wrap hero-inner">
-      <div class="eyebrow">Data Science &amp; AI Engineering · Chennai</div>
-      <h1 class="hero-title">I turn messy data<br>into <em>decisions</em> people trust.</h1>
-      <p class="hero-sub">Working across Python, SQL, Machine Learning, NLP, and Business Intelligence — from cleaning raw data to shipping the dashboard someone actually opens every morning.</p>
-      <div class="hero-actions">
-        <a class="btn btn-primary" href="#projects">View my work →</a>
-        <a class="btn btn-ghost" href="#contact">Get in touch</a>
-      </div>
-      <div class="hero-stats">
-        <div>
-          <div class="stat-num">2+</div>
-          <div class="stat-label">End-to-end projects</div>
-        </div>
-        <div>
-          <div class="stat-num">2</div>
-          <div class="stat-label">Internships completed</div>
-        </div>
-        <div>
-          <div class="stat-num">8.3</div>
-          <div class="stat-label">CGPA in Engineering</div>
-        </div>
-      </div>
-    </div>
-    <div class="scroll-cue"><div class="line"></div>SCROLL</div>
-  </section>
+```python
+class Sathishkumar:
 
-  <section id="skills">
-    <div class="wrap">
-      <div class="section-head">
-        <span class="section-num">01</span>
-        <h2 class="section-title">What I work with</h2>
-      </div>
+    name = "Sathishkumar S"
 
-      <div class="console">
-        <div class="console-bar">
-          <span></span><span></span><span></span>
-          <span class="title">skills.sql</span>
-        </div>
-        <div class="console-body">
-<span class="kw">SELECT</span> <span class="str">'Python'</span>, <span class="str">'SQL'</span>, <span class="str">'Machine Learning'</span>, <span class="str">'NLP'</span>,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span class="str">'Power BI'</span>, <span class="str">'DAX'</span>, <span class="str">'Pandas'</span>, <span class="str">'NumPy'</span>, <span class="str">'Scikit-learn'</span>, <span class="str">'MySQL'</span><br>
-<span class="kw">FROM</span> <span class="fn">skills</span><br>
-<span class="kw">WHERE</span> proficiency &gt;= <span class="str">'strong'</span><br>
-<span class="kw">ORDER BY</span> impact <span class="kw">DESC</span>; <span class="cmt">-- always shipping, always learning</span>
-        </div>
-      </div>
+    role = "Data Science & AI Engineer"
 
-      <div class="skill-chips">
-        <span class="chip">Python</span>
-        <span class="chip">SQL</span>
-        <span class="chip">MySQL</span>
-        <span class="chip">Machine Learning</span>
-        <span class="chip">NLP</span>
-        <span class="chip">Power BI</span>
-        <span class="chip">DAX</span>
-        <span class="chip">Pandas</span>
-        <span class="chip">NumPy</span>
-        <span class="chip">Scikit-learn</span>
-        <span class="chip">Matplotlib</span>
-        <span class="chip">Jupyter Notebook</span>
-        <span class="chip">Git / GitHub</span>
-        <span class="chip">VS Code</span>
-      </div>
-    </div>
-  </section>
+    location = "Chennai, India"
 
-  <section id="projects">
-    <div class="wrap">
-      <div class="section-head">
-        <span class="section-num">02</span>
-        <h2 class="section-title">Projects I've built</h2>
-      </div>
+    education = "B.E. Electrical & Electronics Engineering"
 
-      <div class="projects-grid">
-        <div class="project-card full">
-          <div class="project-inner">
-            <span class="project-tag">Final year project</span>
-            <div class="project-title">AI-Enhanced Herbal Mosquito Repellent Kit</div>
-            <p class="project-desc">An AI-driven herbal mosquito repellent system — Python-based detection identifies when a mosquito enters the room and automatically activates the herbal repellent kit, switching off once the mosquito is gone.</p>
-            <div class="project-stack">
-              <span class="stack-pill">Python</span>
-              <span class="stack-pill">Machine Learning</span>
-              <span class="stack-pill">Automation</span>
-            </div>
-          </div>
-        </div>
+    primary_skills = [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Scikit-Learn",
+        "Power BI",
+        "Excel"
+    ]
 
-        <div class="project-card">
-          <div class="project-inner">
-            <span class="project-tag">Full DB design</span>
-            <div class="project-title">Apollocare Hospital Management System</div>
-            <p class="project-desc">MySQL-based hospital management system handling patients, doctors, appointments, billing, pharmacy, and medical records — built with joins, subqueries, views, stored procedures, and triggers, with indexing for query performance.</p>
-            <div class="project-stack">
-              <span class="stack-pill">MySQL</span>
-              <span class="stack-pill">Database Design</span>
-              <span class="stack-pill">Triggers</span>
-            </div>
-            <a class="project-link" href="https://github.com/SathishkumarSivakumar/ApolloCare-Hospital-Management-System" target="_blank" rel="noopener">View on GitHub →</a>
-          </div>
-        </div>
+    specializations = [
+        "Data Science",
+        "Machine Learning",
+        "NLP",
+        "Business Intelligence"
+    ]
 
-        <div class="project-card">
-          <div class="project-inner">
-            <span class="project-tag">Sentiment model</span>
-            <div class="project-title">Amazon User Review Analysis (NLP)</div>
-            <p class="project-desc">NLP-based sentiment analysis on Amazon reviews — text cleaning, tokenization, and feature extraction with TF-IDF and Count Vectorizer, then classification models built and evaluated with Scikit-learn.</p>
-            <div class="project-stack">
-              <span class="stack-pill">Python</span>
-              <span class="stack-pill">NLP</span>
-              <span class="stack-pill">TF-IDF</span>
-            </div>
-            <a class="project-link" href="https://github.com/SathishkumarSivakumar/Project-Amazon-NLP-" target="_blank" rel="noopener">View on GitHub →</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+    currently_learning = [
+        "Deep Learning",
+        "Advanced Machine Learning",
+        "MLOps"
+    ]
 
-  <section id="experience">
-    <div class="wrap">
-      <div class="section-head">
-        <span class="section-num">03</span>
-        <h2 class="section-title">Experience &amp; credentials</h2>
-      </div>
+    mindset = "Learn → Build → Analyze → Improve"
 
-      <div class="timeline">
-        <div class="tl-item">
-          <div class="tl-date">Jan – Mar 2024</div>
-          <div class="tl-role">SQL Developer Intern</div>
-          <div class="tl-org">Besant Technology</div>
-          <p class="tl-desc">Developed and optimized SQL queries and database objects in MySQL — joins, views, stored procedures, functions, triggers, and indexes — with a focus on query performance.</p>
-        </div>
-        <div class="tl-item">
-          <div class="tl-date">May 2024</div>
-          <div class="tl-role">Data Science Intern</div>
-          <div class="tl-org">Coapps.ai</div>
-          <p class="tl-desc">Completed a Data Science internship with a satisfactory performance record — hands-on work across the data science lifecycle from EDA to model building.</p>
-        </div>
-        <div class="tl-item">
-          <div class="tl-date">2024</div>
-          <div class="tl-role">Certification — Data Science</div>
-          <div class="tl-org">Coapps</div>
-          <p class="tl-desc">Certified in core data science practice: data cleaning, EDA, feature engineering, and predictive modeling.</p>
-        </div>
-        <div class="tl-item">
-          <div class="tl-date">Graduated</div>
-          <div class="tl-role">BE, Electrical &amp; Electronics Engineering</div>
-          <div class="tl-org">Kongunadu College of Engineering and Technology</div>
-          <p class="tl-desc">Graduated with a CGPA of 8.3.</p>
-        </div>
-      </div>
-    </div>
-  </section>
+    def say_hi(self):
+        print("Thanks for visiting my GitHub profile!")
 
-  <section id="certifications">
-    <div class="wrap">
-      <div class="section-head">
-        <span class="section-num">04</span>
-        <h2 class="section-title">Credentials</h2>
-      </div>
-      <div class="cert-grid">
-        <div class="cert-card">
-          <div class="cert-icon">DS</div>
-          <div>
-            <div class="cert-name">Data Science</div>
-            <div class="cert-meta">Coapps · May 2024</div>
-          </div>
-        </div>
-        <div class="cert-card">
-          <div class="cert-icon">SQL</div>
-          <div>
-            <div class="cert-name">SQL (Basic/Intermediate)</div>
-            <div class="cert-meta">HackerRank</div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+me = Sathishkumar()
+me.say_hi()
+```
 
-  <section id="contact" class="contact-section">
-    <div class="wrap">
-      <div class="section-head">
-        <span class="section-num">05</span>
-        <h2 class="section-title">Contact</h2>
-      </div>
-      <div class="contact-grid">
-        <div>
-          <div class="contact-title">Have a data problem <span class="cyan">worth solving?</span></div>
-          <p class="contact-sub">Based in Chennai, open to full-time Data Science / Analytics roles. Reach out — happy to talk.</p>
+---
 
-          <div class="contact-list">
-            <div class="contact-row">
-              <span class="label">Email</span>
-              <a class="value" href="mailto:kumar109662@gmail.com">kumar109662@gmail.com</a>
-            </div>
-            <div class="contact-row">
-              <span class="label">Phone</span>
-              <a class="value" href="tel:+919789704124">+91 97897 04124</a>
-            </div>
-            <div class="contact-row">
-              <span class="label">LinkedIn</span>
-              <a class="value" href="https://www.linkedin.com/in/sathishkumar-sivakumar/" target="_blank" rel="noopener">/in/sathishkumar-sivakumar</a>
-            </div>
-            <div class="contact-row">
-              <span class="label">GitHub</span>
-              <a class="value" href="https://github.com/SathishkumarSivakumar" target="_blank" rel="noopener">/SathishkumarSivakumar</a>
-            </div>
-          </div>
-        </div>
+# ⚡ What I Do
 
-        <div class="status-card">
-          <div class="status-badge"><span class="dot"></span>Open to opportunities</div>
-          <p>Currently exploring Data Science, Analytics, and AI Engineering roles — full-time, Chennai or remote.</p>
-          <a class="btn btn-primary" href="mailto:kumar109662@gmail.com" style="width:100%; justify-content:center;">Email me →</a>
-        </div>
-      </div>
-    </div>
-  </section>
+<table>
+<tr>
 
-  <footer>
-    © 2026 Sathishkumar S — Chennai. Built with data, coffee, and one too many SQL joins.
-  </footer>
-</main>
+<td width="25%" align="center">
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
-<script>
-  // mobile menu
-  const menuBtn = document.getElementById('menuBtn');
-  const navLinks = document.getElementById('navLinks');
-  menuBtn.addEventListener('click', () => navLinks.classList.toggle('open'));
-  navLinks.querySelectorAll('a').forEach(a => a.addEventListener('click', () => navLinks.classList.remove('open')));
+## 🐍
 
-  // ---------- 3D hero: rotating data-schema graph ----------
-  (function(){
-    const canvas = document.getElementById('hero-canvas');
-    const scene = new THREE.Scene();
-    const camera = new THREE.PerspectiveCamera(55, window.innerWidth/window.innerHeight, 0.1, 100);
-    camera.position.set(0, 0, 13);
+### Python
 
-    const renderer = new THREE.WebGLRenderer({ canvas, alpha:true, antialias:true });
-    renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
-    renderer.setSize(window.innerWidth, window.innerHeight);
+Data Analysis
+Automation
+EDA
+Machine Learning
 
-    const group = new THREE.Group();
-    scene.add(group);
+</td>
 
-    // node positions — clustered like a schema / knowledge graph
-    const NODE_COUNT = 46;
-    const nodes = [];
-    const nodeGeo = new THREE.SphereGeometry(0.05, 10, 10);
+<td width="25%" align="center">
 
-    const cyan = new THREE.Color(0x5fe3c8);
-    const amber = new THREE.Color(0xf2a154);
-    const dim = new THREE.Color(0x2c3a42);
+## 🤖
 
-    for (let i = 0; i < NODE_COUNT; i++) {
-      const radius = 5.4;
-      const phi = Math.acos(-1 + (2 * i) / NODE_COUNT);
-      const theta = Math.sqrt(NODE_COUNT * Math.PI) * phi;
-      const x = radius * Math.cos(theta) * Math.sin(phi) + (Math.random()-0.5)*1.4;
-      const y = radius * Math.sin(theta) * Math.sin(phi) + (Math.random()-0.5)*1.4;
-      const z = radius * Math.cos(phi) + (Math.random()-0.5)*1.4;
+### Machine Learning
 
-      const isAccent = Math.random() < 0.16;
-      const color = isAccent ? (Math.random() < 0.5 ? cyan : amber) : dim;
-      const mat = new THREE.MeshBasicMaterial({ color });
-      const mesh = new THREE.Mesh(nodeGeo, mat);
-      mesh.position.set(x, y, z);
-      group.add(mesh);
-      nodes.push(mesh.position);
-    }
+Classification
+Regression
+Clustering
+Model Evaluation
 
-    // connect nearby nodes with thin lines
-    const lineMat = new THREE.LineBasicMaterial({ color: 0x2c3a42, transparent:true, opacity:0.35 });
-    const linePositions = [];
-    const MAX_DIST = 3.1;
-    for (let i = 0; i < nodes.length; i++) {
-      for (let j = i+1; j < nodes.length; j++) {
-        if (nodes[i].distanceTo(nodes[j]) < MAX_DIST) {
-          linePositions.push(nodes[i].x, nodes[i].y, nodes[i].z);
-          linePositions.push(nodes[j].x, nodes[j].y, nodes[j].z);
-        }
-      }
-    }
-    const lineGeo = new THREE.BufferGeometry();
-    lineGeo.setAttribute('position', new THREE.Float32BufferAttribute(linePositions, 3));
-    const lines = new THREE.LineSegments(lineGeo, lineMat);
-    group.add(lines);
+</td>
 
-    group.rotation.x = 0.3;
+<td width="25%" align="center">
 
-    let mouseX = 0, mouseY = 0;
-    window.addEventListener('mousemove', (e) => {
-      mouseX = (e.clientX / window.innerWidth - 0.5);
-      mouseY = (e.clientY / window.innerHeight - 0.5);
-    });
+## 🧠
 
-    function resize(){
-      camera.aspect = window.innerWidth / window.innerHeight;
-      camera.updateProjectionMatrix();
-      renderer.setSize(window.innerWidth, window.innerHeight);
-    }
-    window.addEventListener('resize', resize);
+### NLP
 
-    const clock = new THREE.Clock();
-    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+Text Processing
+TF-IDF
+Sentiment Analysis
+Feature Extraction
 
-    function animate(){
-      requestAnimationFrame(animate);
-      const t = clock.getElapsedTime();
-      if (!reduceMotion) {
-        group.rotation.y = t * 0.06;
-        group.rotation.x = 0.3 + mouseY * 0.25;
-      }
-      group.position.x += (mouseX * 1.2 - group.position.x) * 0.02;
-      renderer.render(scene, camera);
-    }
-    animate();
-  })();
+</td>
 
-  // reveal-on-scroll for sections
-  const observer = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        entry.target.style.opacity = 1;
-        entry.target.style.transform = 'translateY(0)';
-      }
-    });
-  }, { threshold: 0.12 });
+<td width="25%" align="center">
 
-  document.querySelectorAll('section:not(.hero)').forEach(sec => {
-    sec.style.opacity = 0;
-    sec.style.transform = 'translateY(24px)';
-    sec.style.transition = 'opacity .7s ease, transform .7s ease';
-    observer.observe(sec);
-  });
-</script>
+## 📊
 
-</body>
-</html>
+### Business Intelligence
+
+Power BI
+DAX
+Power Query
+KPI Dashboards
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠️ Technology Stack
+
+## 💻 Programming & Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter&theme=dark">
+
+</p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
+
+## 📊 Data Science & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+
+---
+
+## 📈 Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+
+![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+
+![DAX](https://img.shields.io/badge/DAX-1F4E79?style=for-the-badge)
+
+![Power Query](https://img.shields.io/badge/Power%20Query-68217A?style=for-the-badge)
+
+---
+
+## 🔧 Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge\&logo=anaconda\&logoColor=white)
+
+---
+
+# 🧠 Skill Matrix
+
+| Domain                   | Skills                                             |
+| ------------------------ | -------------------------------------------------- |
+| 🐍 Programming           | Python, SQL                                        |
+| 📊 Data Analysis         | Pandas, NumPy, EDA                                 |
+| 📈 Visualization         | Matplotlib, Power BI, Excel                        |
+| 🤖 Machine Learning      | Regression, Classification, Clustering             |
+| 🧠 NLP                   | TF-IDF, CountVectorizer, Sentiment Analysis        |
+| 🗄️ Database             | MySQL, Joins, Views, Indexes                       |
+| ⚙️ Database Programming  | Stored Procedures, Functions, Triggers             |
+| 📐 Analytics             | Statistical Analysis, Predictive Analytics         |
+| 🎯 Business Intelligence | DAX, Power Query, KPI Reporting                    |
+| 🧹 Data Preparation      | Data Cleaning, Transformation, Feature Engineering |
+| 🔧 Development           | Git, GitHub, VS Code, Jupyter                      |
+
+---
+
+# 💼 Experience
+
+## 🔹 SQL Database Developer Intern
+
+### Besant Technologies
+
+* Designed and structured relational databases
+* Developed complex SQL queries
+* Worked with Joins and Views
+* Created Stored Procedures
+* Developed SQL Functions
+* Implemented Triggers
+* Used Indexes for query optimization
+* Worked on database performance improvement
+
+---
+
+## 🔹 Data Science Intern
+
+### Coapps.ai
+
+* Performed data preprocessing and cleaning
+* Conducted Exploratory Data Analysis
+* Performed feature engineering
+* Built NLP-based sentiment analysis models
+* Used TF-IDF for text feature extraction
+* Used CountVectorizer for text representation
+* Applied Scikit-Learn machine learning algorithms
+* Analyzed customer review datasets
+
+---
+
+# 🚀 Featured Projects
+
+## 🏥 ApolloCare — Hospital Management System
+
+### Relational Database Management System
+
+A structured hospital management database designed to manage healthcare operations efficiently.
+
+### Key Features
+
+* Database normalization
+* Relational database design
+* Complex SQL queries
+* Views
+* Stored Procedures
+* Functions
+* Triggers
+* Indexes
+* Query optimization
+
+### Tech Stack
+
+`MySQL` `SQL` `Database Design` `Stored Procedures` `Views` `Triggers` `Indexes`
+
+🔗 **GitHub:**
+https://github.com/SathishkumarSivakumar
+
+---
+
+## 🛒 Amazon User Review Analysis — NLP
+
+### Customer Sentiment Analysis
+
+Machine Learning based NLP project for analyzing customer reviews and predicting sentiment.
+
+### Machine Learning Pipeline
+
+```text
+Customer Reviews
+       ↓
+Data Cleaning
+       ↓
+Text Preprocessing
+       ↓
+Feature Extraction
+       ↓
+TF-IDF / CountVectorizer
+       ↓
+Machine Learning Model
+       ↓
+Sentiment Prediction
+       ↓
+Business Insights
+```
+
+### Tech Stack
+
+`Python` `Pandas` `NumPy` `Scikit-Learn` `NLP` `TF-IDF` `Machine Learning`
+
+🔗 **GitHub:**
+https://github.com/SathishkumarSivakumar
+
+---
+
+## 🦟 AI-Enhanced Herbal Mosquito Repellent
+
+### AI + IoT + Automation
+
+An AI-powered mosquito detection system combined with an automated herbal repellent dispenser.
+
+### System Architecture
+
+```text
+Camera / Sensor
+       ↓
+Mosquito Detection
+       ↓
+AI Processing
+       ↓
+Arduino / ESP8266
+       ↓
+Automated Control
+       ↓
+Herbal Repellent
+```
+
+### Technology
+
+`Python` `Machine Learning` `Arduino` `ESP8266` `Automation`
+
+---
+
+# 🔬 My Data Science Workflow
+
+```text
+                 ┌─────────────────────┐
+                 │     RAW DATA        │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │   DATA CLEANING     │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │        EDA          │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ FEATURE ENGINEERING │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ MACHINE LEARNING    │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ MODEL EVALUATION    │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ BUSINESS INSIGHTS   │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ POWER BI DASHBOARD  │
+                 └─────────────────────┘
+```
+
+---
+
+# 📊 Power BI & Business Intelligence
+
+I use **Power BI** to transform raw business data into interactive dashboards and decision-ready insights.
+
+### My Power BI Workflow
+
+```text
+Data Sources
+     ↓
+Power Query
+     ↓
+Data Cleaning
+     ↓
+Data Transformation
+     ↓
+Data Modeling
+     ↓
+Relationships
+     ↓
+DAX Measures
+     ↓
+KPI Cards
+     ↓
+Interactive Visualizations
+     ↓
+Bookmarks
+     ↓
+Dashboard Navigation
+     ↓
+Business Insights
+```
+
+### Power BI Skills
+
+* Power Query
+* Data Cleaning
+* Data Transformation
+* Data Modeling
+* Relationships
+* DAX Measures
+* Calculated Columns
+* KPI Cards
+* Slicers
+* Drill-through
+* Bookmarks
+* Page Navigation
+* Interactive Dashboards
+* Business Storytelling
+
+---
+
+# 📚 Currently Learning
+
+| Technology           | Goal                                 |
+| -------------------- | ------------------------------------ |
+| 🧠 Deep Learning     | Build advanced AI models             |
+| 🤖 Advanced ML       | Improve predictive systems           |
+| ⚙️ MLOps             | Deploy ML models                     |
+| 📊 Power BI          | Build enterprise dashboards          |
+| 🗄️ SQL Optimization | Write production-ready queries       |
+| 🚀 AI Applications   | Build real-world intelligent systems |
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SathishkumarSivakumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SathishkumarSivakumar&theme=tokyonight&hide_border=true" height="180">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathishkumarSivakumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180">
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SathishkumarSivakumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4">
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SathishkumarSivakumar&bg_color=0F172A&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%">
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SathishkumarSivakumar/SathishkumarSivakumar/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake">
+
+</div>
+
+---
+
+# 🏆 Certifications & Achievements
+
+## 🎓 Certifications
+
+* 🎓 Data Science & AI Engineer Certification — Besant Technologies
+* 🎓 SQL Basic Certification — HackerRank
+* 🎓 SQL Intermediate Certification — HackerRank
+* 🎓 Data Science Internship Certification — Coapps.ai
+
+## 🥇 Achievement
+
+### National Paper Presentation — First Prize
+
+**Project:** Aloe Vera Battery
+
+---
+
+# 🎓 Education
+
+## Kongunadu College of Engineering and Technology
+
+**B.E. — Electrical & Electronics Engineering**
+
+📅 2024
+🎓 CGPA: **8.5**
+
+---
+
+## Kongu Polytechnic College
+
+**Diploma — Electrical & Electronics Engineering**
+
+🎓 Percentage: **96.57%**
+
+---
+
+# 🎯 Career Focus
+
+I am interested in opportunities involving:
+
+```text
+                    DATA SCIENCE
+                         │
+        ┌────────────────┼────────────────┐
+        ↓                ↓                ↓
+   MACHINE LEARNING     AI              NLP
+        │                │                │
+        └────────────────┼────────────────┘
+                         ↓
+                 DATA ANALYTICS
+                         │
+                         ↓
+               BUSINESS INTELLIGENCE
+                         │
+                         ↓
+                    POWER BI
+```
+
+### My Goal
+
+> Build intelligent, scalable and business-focused data solutions that solve real-world problems.
+
+---
+
+# 💡 My Development Philosophy
+
+<div align="center">
+
+```text
+       LEARN
+         ↓
+       BUILD
+         ↓
+      ANALYZE
+         ↓
+      IMPROVE
+         ↓
+      DEPLOY
+         ↓
+       REPEAT
+```
+
+### Learn continuously. Build practically. Solve real problems.
+
+</div>
+
+---
+
+# ⚡ Quick Facts
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+🐍
+
+### Python
+
+</td>
+
+<td align="center" width="25%">
+
+🤖
+
+### AI / ML
+
+</td>
+
+<td align="center" width="25%">
+
+📊
+
+### Power BI
+
+</td>
+
+<td align="center" width="25%">
+
+🗄️
+
+### SQL
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+📈
+
+### Analytics
+
+</td>
+
+<td align="center">
+
+🧠
+
+### NLP
+
+</td>
+
+<td align="center">
+
+🚀
+
+### Projects
+
+</td>
+
+<td align="center">
+
+💡
+
+### Innovation
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📌 GitHub Profile
+
+<div align="center">
+
+<a href="https://github.com/SathishkumarSivakumar">
+
+<img src="https://img.shields.io/github/followers/SathishkumarSivakumar?style=for-the-badge&logo=github&label=FOLLOWERS">
+
+</a>
+
+<a href="https://github.com/SathishkumarSivakumar?tab=repositories">
+
+<img src="https://img.shields.io/github/stars/SathishkumarSivakumar?style=for-the-badge&logo=github&label=REPOSITORY%20STARS">
+
+</a>
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sathishkumar-sivakumar/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/SathishkumarSivakumar">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://sathishkumar-sivakumar.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="mailto:kumar109662@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💬 "Turning Data Into Insights, and Insights Into Impact."
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:020617&height=140&section=footer" width="100%">
+
+### ⭐ Thanks for visiting my GitHub profile!
+
+**Sathishkumar S • Data Science & AI Engineer**
+
+</div>
