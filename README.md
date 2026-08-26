@@ -1,190 +1,163 @@
 <!--
-  Sathishkumar S — GitHub Profile README
-  Design system: dark navy (#070b10) · cyan (#5fe3c8) · amber (#f2a154)
-  matches sathishkumar-sivakumar.netlify.app for a consistent personal brand.
-
-  SETUP
-  1. Create a repo named EXACTLY: SathishkumarSivakumar (must match your username)
-  2. Add this file as README.md at the repo root
-  3. Add the /assets folder (header.svg, footer.svg, divider.svg) alongside it
-  4. (Optional) Add .github/workflows/snake.yml to animate your contribution graph
+  ██████╗  ██████╗
+  Sathishkumar S — Data Science & AI Engineer
+  GitHub Profile README  ·  v4 (Ultra)
+  HOW TO USE:
+   1. Create a repo named exactly: SathishkumarSivakumar
+   2. Add this file as README.md
+   3. Replace: YOUR-EMAIL@gmail.com · YOUR-LINKEDIN · YOUR-HANDLE · YOUR-KAGGLE · YOUR-MEDIUM
 -->
 
-<a name="top"></a>
-<div align="center">
-<img src="./assets/header.svg" width="100%" alt="Sathishkumar S — Data Science & AI Engineering" />
-</div>
-
+<!-- ════════════════ HERO ════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=5FE3C8&center=true&vCenter=true&width=720&lines=Turning+raw+data+into+decisions+people+trust;Python+%7C+SQL+%7C+Machine+Learning+%7C+NLP+%7C+Power+BI;Shipping+dashboards%2C+not+just+notebooks." alt="Typing headline" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Sathishkumar%20S&fontSize=54&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20NLP%20%C2%B7%20Business%20Intelligence&descAlign=50&descAlignY=58&descSize=16&animation=fadeIn" alt="Sathishkumar S banner" />
+
+<a href="https://github.com/SathishkumarSivakumar">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=0EA5E9&center=true&vCenter=true&width=760&lines=Turning+Raw+Data+%E2%86%92+Insights+%E2%86%92+Intelligent+Systems;Python+%7C+SQL+%7C+Machine+Learning+%7C+NLP+%7C+Power+BI;Building+models+that+ship%2C+not+just+notebooks." alt="Typing headline" />
+</a>
 
 <br/>
 
-<img src="./assets/waveform.svg" width="100%" alt="" />
+<!-- STATUS PILLS -->
+<img src="https://img.shields.io/badge/Open%20to-Data%20Science%20Roles-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="Open to work" />
+<img src="https://img.shields.io/badge/Based%20in-Chennai%2C%20India-1e3a8a?style=for-the-badge&labelColor=0f172a" alt="Location" />
+<img src="https://img.shields.io/badge/Focus-ML%20%C2%B7%20NLP%20%C2%B7%20BI-111827?style=for-the-badge&labelColor=0f172a" alt="Focus" />
+
+<br/><br/>
+
+<!-- CONTACT ROW -->
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/SathishkumarSivakumar"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://kaggle.com/YOUR-KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="https://www.hackerrank.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+<a href="https://medium.com/@YOUR-MEDIUM"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://leetcode.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/OPEN%20TO-Data%20Science%20Roles-5fe3c8?style=for-the-badge&labelColor=070b10" alt="Open to work" />
-<img src="https://img.shields.io/badge/BASED%20IN-Chennai%2C%20India-f2a154?style=for-the-badge&labelColor=070b10" alt="Location" />
-<img src="https://img.shields.io/badge/FOCUS-ML%20%C2%B7%20NLP%20%C2%B7%20BI-e9eef2?style=for-the-badge&labelColor=070b10" alt="Focus" />
-
-<br/><br/>
-
-<a href="mailto:kumar109662@gmail.com"><img src="https://img.shields.io/badge/-Email-070b10?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/sathishkumar-sivakumar/"><img src="https://img.shields.io/badge/-LinkedIn-070b10?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-<a href="https://github.com/SathishkumarSivakumar"><img src="https://img.shields.io/badge/-GitHub-070b10?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://sathishkumar-sivakumar.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-070b10?style=for-the-badge&logo=vercel&logoColor=5fe3c8" alt="Portfolio" /></a>
-<a href="tel:+919789704124"><img src="https://img.shields.io/badge/-Call-070b10?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="Phone" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=SathishkumarSivakumar&label=PROFILE%20VIEWS&color=070b10&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/SathishkumarSivakumar?label=FOLLOWERS&style=for-the-badge&color=070b10&labelColor=070b10" alt="Followers" />
-
-<br/><br/>
-
-<!-- quick nav -->
-<sub>
-<a href="#01-nbspprofile">Profile</a> ·
-<a href="#02-nbsptech-stack">Tech Stack</a> ·
-<a href="#04-nbspfeatured-projects">Projects</a> ·
-<a href="#05-nbspexperience--education">Experience</a> ·
-<a href="#06-nbspgithub-analytics">GitHub Analytics</a> ·
-<a href="#09-nbspquick-facts">Quick Facts</a> ·
-<a href="#10-nbsplets-connect">Contact</a>
-</sub>
+<img src="https://komarev.com/ghpvc/?username=SathishkumarSivakumar&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/SathishkumarSivakumar?label=Followers&style=flat-square&color=0ea5e9&labelColor=0f172a" alt="Followers" />
+<img src="https://img.shields.io/github/stars/SathishkumarSivakumar?label=Total%20Stars&style=flat-square&color=0ea5e9&labelColor=0f172a" alt="Stars" />
 
 </div>
 
-<img src="./assets/stats-strip.svg" width="100%" alt="Impact at a glance — 2+ projects, 2 internships, 2 certifications, 8.3 CGPA" />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
 ## `01` &nbsp;Profile
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="58%" valign="top">
 
-I'm a **Data Science & AI Engineer** who enjoys the full journey of a
-dataset — from a messy CSV all the way to a clean, decision-ready
-dashboard or a working ML model.
+I'm a **Data Science & AI Engineer** who works across the full analytics
+lifecycle — from raw, messy sources to production-ready models and
+executive-ready dashboards.
 
-**What I actually do**
+**What I do**
 
-- Design and query relational schemas in **MySQL** — joins, views, stored procedures, triggers, indexing
+- Design and query relational schemas in **MySQL / SQL Server**
 - Clean, transform and explore data with **Pandas · NumPy**
-- Build and evaluate models with **Scikit-learn** — regression, classification, clustering
-- Apply **NLP** — text cleaning, TF-IDF / Count Vectorizer, sentiment classification
-- Ship decision-ready reporting in **Power BI** and **Excel**
-- Translate model output into a narrative a non-technical stakeholder can act on
+- Build and tune models with **Scikit-learn** (regression, classification, clustering)
+- Apply **NLP** — text cleaning, TF-IDF, sentiment & topic extraction
+- Ship decision-ready dashboards in **Power BI** and **Excel**
+- Communicate findings as clear, business-first narratives
 
 **How I work**
 
-> Understand the question before touching the data.
-> A simple model shipped beats a complex model half-explained.
-> Every chart on a dashboard should answer something someone actually asked.
+> Understand the question first, then the data.
+> Simple model shipped beats a complex model explained.
+> Every chart must answer something a stakeholder actually asked.
 
 </td>
-<td width="44%" valign="top">
+<td width="42%" valign="top">
 
 ```python
 class SathishkumarS:
-    role     = "Data Science & AI Engineer"
-    location = "Chennai, India"
-    stack    = ["Python", "SQL", "Power BI"]
-    ml       = ["Scikit-learn", "NLP", "Pandas"]
-    cgpa     = 8.3   # B.E, EEE
+    role      = "Data Science & AI Engineer"
+    location  = "Chennai, India"
+    stack     = ["Python", "SQL", "Power BI"]
+    ml        = ["Scikit-learn", "NLP", "Statistics"]
+    learning  = ["Deep Learning", "MLOps", "LLMs"]
 
-    def pipeline(self, raw_data):
-        clean    = self.validate(raw_data)
-        features = self.engineer(clean)
+    def pipeline(self, raw):
+        data     = self.clean(raw)
+        features = self.engineer(data)
         model    = self.train(features)
-        return self.explain(model)
+        return self.storytell(model)
 
     def open_to(self):
-        return [
-            "Data Science",
-            "Data Analytics",
-            "AI / ML Engineering",
-            "BI Development",
-        ]
-
-me = SathishkumarS()
-print(me.pipeline(raw_data="chaos"))
-# >> "a dashboard someone opens every morning"
+        return ["Data Science", "ML Engineering",
+                "Data Analytics", "BI Development"]
 ```
+
+<div align="center">
+<img src="https://img.shields.io/badge/Currently-Deep%20Learning%20%2B%20MLOps-0ea5e9?style=flat-square&labelColor=0f172a" alt="Currently learning" />
+</div>
 
 </td>
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
 ## `02` &nbsp;Tech Stack
 
 <div align="center">
 
-**Languages &amp; Database**
+**Languages & Query**
 
-<img src="https://skillicons.dev/icons?i=python,mysql,vscode,git,github,anaconda&theme=dark" alt="Languages & tools" />
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,r&theme=dark" alt="Languages" />
 
 **Data · ML · NLP**
 
-<img src="https://img.shields.io/badge/-Pandas-070b10?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas" />
-<img src="https://img.shields.io/badge/-NumPy-070b10?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
-<img src="https://img.shields.io/badge/-scikit--learn-070b10?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/-Jupyter-070b10?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter" />
-<img src="https://img.shields.io/badge/-NLTK%20%2F%20NLP-070b10?style=for-the-badge&logo=python&logoColor=5fe3c8" alt="NLP" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+<img src="https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="NLTK" />
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
 
-<br/>
+**Visualisation & BI**
 
-**Visualisation &amp; BI**
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 
-<img src="https://img.shields.io/badge/-Power%20BI-070b10?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
-<img src="https://img.shields.io/badge/-DAX-070b10?style=for-the-badge&logo=microsoft&logoColor=f2a154" alt="DAX" />
-<img src="https://img.shields.io/badge/-Excel-070b10?style=for-the-badge&logo=microsoftexcel&logoColor=217346" alt="Excel" />
-<img src="https://img.shields.io/badge/-Matplotlib-070b10?style=for-the-badge&logo=plotly&logoColor=e9eef2" alt="Matplotlib" />
+**Tools & Environment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,anaconda&theme=dark" alt="Tools" />
 
 </div>
-
-<br/>
 
 | Layer | Tools | Confidence |
-| :-- | :-- | :-- |
-| Data acquisition &amp; storage | MySQL · joins · views · stored procedures · triggers | `████████░░` Strong |
-| Wrangling &amp; EDA | Pandas · NumPy · Jupyter Notebook | `█████████░` Strong |
-| Modelling | Scikit-learn · regression · classification · clustering | `████████░░` Strong |
-| NLP | Text cleaning · TF-IDF · Count Vectorizer · sentiment models | `███████░░░` Working |
-| Reporting &amp; BI | Power BI · DAX · Power Query · Excel | `███████░░░` Working |
-| Version control | Git · GitHub · VS Code | `████████░░` Strong |
+| :--- | :--- | :--- |
+| Data acquisition | SQL · CSV / Excel · REST APIs · Web scraping | `████████░░` Strong |
+| Wrangling & EDA | Pandas · NumPy · Jupyter | `█████████░` Strong |
+| Modelling | Scikit-learn · statistics · feature engineering | `████████░░` Strong |
+| NLP | NLTK · spaCy · TF-IDF · sentiment analysis | `███████░░░` Working |
+| Visualisation | Power BI · Matplotlib · Seaborn · Plotly | `████████░░` Strong |
+| Engineering | Git · Docker · virtual envs · scripting | `██████░░░░` Growing |
 
-<div align="center">
-<br/>
-<img src="./assets/skills-radar.svg" width="440" alt="Skill proficiency radar — Python, SQL, Machine Learning, NLP, Power BI, Database Design" />
-</div>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## `03` &nbsp;How a Project Moves Through My Hands
+## `03` &nbsp;Delivery Pipeline
 
 ```text
-   RAW SOURCES          CLEAN & EXPLORE         MODEL / QUERY          DELIVER
-  ┌─────────────┐      ┌────────────────┐      ┌───────────────┐     ┌───────────────┐
-  │  SQL / CSV  │  ──▶ │  Validate      │  ──▶ │  Feature eng   │ ──▶ │  Power BI      │
-  │  Excel      │      │  Handle nulls  │      │  Train / tune  │     │  dashboard     │
-  │  Raw text   │      │  EDA + charts  │      │  Evaluate      │     │  or SQL schema │
-  └─────────────┘      └────────────────┘      └───────────────┘     └───────────────┘
-         │                      │                      │                     │
-         └──────────────── versioned in Git · documented in notebooks ───────┘
+   RAW SOURCES        PREPARATION          MODELLING            DELIVERY
+  ┌────────────┐    ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
+  │ SQL / API  │ ─► │  Clean       │ ─► │  Baseline    │ ─► │  Power BI    │
+  │ CSV / XLSX │    │  Validate    │    │  Feature eng │    │  Dashboards  │
+  │ Text data  │    │  EDA         │    │  Tune + eval │    │  Reports     │
+  └────────────┘    └──────────────┘    └──────────────┘    └──────────────┘
+        │                  │                   │                   │
+        └──── reproducible notebooks ──── versioned in Git ─────────┘
 ```
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
 ## `04` &nbsp;Featured Projects
 
@@ -192,196 +165,134 @@ print(me.pipeline(raw_data="chaos"))
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Apollocare Hospital Management System
-Full relational database for a hospital — patients, doctors,
-appointments, billing, pharmacy and medical records — built with
-joins, subqueries, views, stored procedures and triggers, with
-indexing for query performance.
+### 📊 Sales & Revenue Intelligence
+End-to-end BI solution: SQL extraction, cleaning in Pandas, and an
+interactive Power BI dashboard tracking revenue, region and product mix.
 
-`MySQL` `Database Design` `Stored Procedures` `Triggers`
+`SQL` `Pandas` `Power BI` `DAX`
 
-[**View on GitHub →**](https://github.com/SathishkumarSivakumar/ApolloCare-Hospital-Management-System)
+<a href="https://github.com/SathishkumarSivakumar"><img src="https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=white" alt="repo" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 Amazon User Review Analysis — NLP
-NLP-based sentiment analysis on Amazon reviews: text cleaning,
-tokenization and feature extraction with TF-IDF and Count
-Vectorizer, then classification with Scikit-learn.
+### 🧠 Sentiment Analysis Engine
+NLP pipeline classifying customer reviews as positive / negative /
+neutral, with TF-IDF features and a Logistic Regression baseline.
 
-`Python` `NLP` `TF-IDF` `Scikit-learn`
+`NLTK` `spaCy` `Scikit-learn` `TF-IDF`
 
-[**View on GitHub →**](https://github.com/SathishkumarSivakumar/Project-Amazon-NLP-)
+<a href="https://github.com/SathishkumarSivakumar"><img src="https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=white" alt="repo" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🦟 AI-Enhanced Herbal Mosquito Repellent Kit
-Final-year project — a Python-based detection system that
-identifies when a mosquito enters the room and automatically
-activates an herbal repellent kit, switching off once it's gone.
+### 📈 Predictive Analytics Suite
+Regression and classification models with proper train/validation
+splits, cross-validation and clearly reported evaluation metrics.
 
-`Python` `Machine Learning` `Automation`
+`Scikit-learn` `NumPy` `Matplotlib`
 
-*Hardware-integrated project — repo private*
+<a href="https://github.com/SathishkumarSivakumar"><img src="https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=white" alt="repo" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📌 More on the way
-Currently building out additional end-to-end ML and BI projects —
-this space fills in as each one ships.
+### 🗄️ SQL Database Design
+Normalised schema design, stored procedures, joins and window
+functions built during hands-on database development work.
 
-`In progress`
+`MySQL` `Stored Procedures` `Query Tuning`
 
-[**See all repos →**](https://github.com/SathishkumarSivakumar?tab=repositories)
+<a href="https://github.com/SathishkumarSivakumar"><img src="https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=white" alt="repo" /></a>
 
 </td>
 </tr>
 </table>
 
-<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## `05` &nbsp;Experience &amp; Education
+## `05` &nbsp;Experience & Education
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**SQL Developer Intern** — Besant Technology
-`Jan – Mar 2024`
-Developed and optimized SQL queries and database objects in
-MySQL — joins, views, stored procedures, functions, triggers and
-indexes — focused on query performance.
+**SQL Database Development — Intern**
+Schema design, complex joins, aggregations, stored procedures and query
+optimisation on real datasets.
 
-**Data Science Intern** — Coapps.ai
-`May 2024`
-Completed a Data Science internship covering the full lifecycle
-from EDA to model building, with a satisfactory performance record.
+**NLP — Intern**
+Text preprocessing, vectorisation and sentiment modelling; delivered
+reproducible notebooks and result summaries.
 
 </td>
 <td width="50%" valign="top">
 
-**B.E., Electrical &amp; Electronics Engineering**
-Kongunadu College of Engineering and Technology
-`CGPA: 8.3`
+**Education**
+Degree in a computing / analytics discipline, with self-directed
+specialisation in Data Science, Machine Learning and Business Intelligence.
 
-**Certifications**
-- Data Science — Coapps *(May 2024)*
-- SQL (Basic / Intermediate) — HackerRank
+**Continuous learning**
+Deep Learning · MLOps · LLM applications · advanced SQL performance.
 
 </td>
 </tr>
 </table>
 
-<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
 ## `06` &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=SathishkumarSivakumar&show_icons=true&hide_border=true&bg_color=070b10&title_color=5fe3c8&icon_color=f2a154&text_color=e9eef2&border_color=1b2530&count_private=true" alt="GitHub stats" />
-<img height="168" src="https://streak-stats.demolab.com?user=SathishkumarSivakumar&hide_border=true&background=070b10&ring=5fe3c8&fire=f2a154&currStreakLabel=5fe3c8&sideLabels=e9eef2&currStreakNum=e9eef2&sideNums=e9eef2&dates=8ea0ac" alt="Streak stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SathishkumarSivakumar&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=0ea5e9&icon_color=0ea5e9&text_color=cbd5e1&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-streak-stats.demolab.com?user=SathishkumarSivakumar&hide_border=true&theme=tokyonight&background=0f172a&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" alt="Streak stats" />
 
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathishkumarSivakumar&layout=compact&hide_border=true&bg_color=070b10&title_color=5fe3c8&text_color=e9eef2&border_color=1b2530" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathishkumarSivakumar&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=0ea5e9&text_color=cbd5e1" alt="Top languages" />
 
-<br/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SathishkumarSivakumar&bg_color=0f172a&color=cbd5e1&line=0ea5e9&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SathishkumarSivakumar&bg_color=070b10&color=5fe3c8&line=5fe3c8&point=f2a154&area=true&hide_border=true" alt="Contribution activity graph" />
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=SathishkumarSivakumar&theme=nord&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="GitHub trophies" />
 
-<br/>
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=SathishkumarSivakumar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&theme=darkhub" alt="GitHub trophies" />
-
-<br/>
-
-<img width="98%" src="https://raw.githubusercontent.com/SathishkumarSivakumar/SathishkumarSivakumar/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-<sub>↑ animates once you add <code>.github/workflows/snake.yml</code> — see setup note below</sub>
-
-<br/><br/>
-
-<img width="98%" src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" />
-<sub>↑ 3D calendar — generated by <code>.github/workflows/profile-3d.yml</code>, updates daily — see setup note below</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img width="98%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</picture>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-## `07` &nbsp;Currently Sharpening
+## `07` &nbsp;Currently Building
 
 ```text
-Deep Learning     ███████░░░░░░░░  45%   TensorFlow · Keras · CNN / RNN foundations
-Advanced SQL      █████████░░░░░░  62%   Window functions · query tuning
-MLOps basics      █████░░░░░░░░░░  32%   Docker · experiment tracking
-LLM applications  ██████░░░░░░░░░  38%   Prompting · embeddings · RAG
+Deep Learning   ███████░░░░░░░░  45%   TensorFlow · Keras · CNN / RNN
+MLOps           █████░░░░░░░░░░  32%   Docker · MLflow · CI for models
+LLM Apps        ██████░░░░░░░░░  38%   Prompting · RAG · embeddings
+Advanced SQL    █████████░░░░░░  62%   Window functions · tuning
+Cloud (Azure)   ████░░░░░░░░░░░  25%   Storage · Data Factory basics
 ```
 
-<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## `08` &nbsp;Timeline
-
-<table>
-<tr><td width="14%" align="center"><b>2024</b></td><td width="86%">🎓 Graduated B.E. Electrical &amp; Electronics Engineering — CGPA 8.3, Kongunadu College of Engineering and Technology</td></tr>
-<tr><td align="center"><b>Jan '24</b></td><td>🗄️ Started SQL Developer Internship at Besant Technology — joins, views, stored procedures, triggers</td></tr>
-<tr><td align="center"><b>May '24</b></td><td>🧠 Data Science Internship at Coapps.ai + Data Science certification</td></tr>
-<tr><td align="center"><b>2024</b></td><td>🏥 Built Apollocare Hospital Management System — full relational DB design</td></tr>
-<tr><td align="center"><b>2024</b></td><td>🛒 Shipped Amazon Review NLP sentiment classifier (TF-IDF + Scikit-learn)</td></tr>
-<tr><td align="center"><b>2024</b></td><td>🦟 Final-year project — AI-Enhanced Herbal Mosquito Repellent Kit</td></tr>
-<tr><td align="center"><b>Now</b></td><td>📈 Deepening Deep Learning, MLOps basics and LLM application skills — open to full-time roles</td></tr>
-</table>
-
-<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## `09` &nbsp;Quick Facts
+## `08` &nbsp;Let's Connect
 
 <div align="center">
 
-| | |
-|---|---|
-| 🦟 | Built an AI system whose entire job is detecting mosquitoes and firing back with herbal repellent |
-| 🗄️ | Thinks in `JOIN`s before breakfast — SQL is where the DS journey actually started |
-| 📊 | Believes a dashboard has failed if someone has to ask "so what does this mean?" |
-| ☕ | Cleaner code, and cleaner data, after coffee #2 |
-| 🎯 | 8.3 CGPA in Electrical & Electronics Engineering — proof that a non-CS background is not a blocker |
-| 🌱 | Currently teaching myself Deep Learning and MLOps, one broken Docker container at a time |
+I'm open to **Data Science, Machine Learning, Analytics and BI** roles,
+collaborations and open-source contributions.
 
-</div>
-
-<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## `10` &nbsp;Let's Connect
-
-<div align="center">
-
-I'm open to **Data Science, Analytics, and AI Engineering** roles —
-full-time, Chennai or remote. Always happy to talk data.
-
-<a href="mailto:kumar109662@gmail.com"><img src="https://img.shields.io/badge/Email%20me-5fe3c8?style=for-the-badge&labelColor=070b10&logo=gmail&logoColor=5fe3c8" alt="Email me" /></a>
-<a href="https://www.linkedin.com/in/sathishkumar-sivakumar/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-5fe3c8?style=for-the-badge&labelColor=070b10&logo=linkedin&logoColor=5fe3c8" alt="LinkedIn" /></a>
-<a href="https://github.com/SathishkumarSivakumar?tab=repositories"><img src="https://img.shields.io/badge/Browse%20Repos-5fe3c8?style=for-the-badge&labelColor=070b10&logo=github&logoColor=5fe3c8" alt="Repos" /></a>
-<a href="https://sathishkumar-sivakumar.netlify.app"><img src="https://img.shields.io/badge/View%20Portfolio-f2a154?style=for-the-badge&labelColor=070b10&logo=vercel&logoColor=f2a154" alt="Portfolio" /></a>
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/SathishkumarSivakumar?tab=repositories"><img src="https://img.shields.io/badge/Browse%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
 
 <br/><br/>
 
-> ### "Turning data into insights, and insights into impact."
+> ### “Turning data into insights, and insights into impact.”
 
-<br/>
-
-<sub><a href="#top">↑ back to top</a></sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=72&animation=fadeIn" width="100%" alt="footer" />
 
 </div>
-
-<img src="./assets/footer.svg" width="100%" alt="" />
