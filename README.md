@@ -10,7 +10,6 @@
   4. (Optional) Add .github/workflows/snake.yml to animate your contribution graph
 -->
 
-<a name="top"></a>
 <div align="center">
 <img src="./assets/header.svg" width="100%" alt="Sathishkumar S — Data Science & AI Engineering" />
 </div>
@@ -38,22 +37,7 @@
 <img src="https://komarev.com/ghpvc/?username=SathishkumarSivakumar&label=PROFILE%20VIEWS&color=070b10&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/SathishkumarSivakumar?label=FOLLOWERS&style=for-the-badge&color=070b10&labelColor=070b10" alt="Followers" />
 
-<br/><br/>
-
-<!-- quick nav -->
-<sub>
-<a href="#01-nbspprofile">Profile</a> ·
-<a href="#02-nbsptech-stack">Tech Stack</a> ·
-<a href="#04-nbspfeatured-projects">Projects</a> ·
-<a href="#05-nbspexperience--education">Experience</a> ·
-<a href="#06-nbspgithub-analytics">GitHub Analytics</a> ·
-<a href="#09-nbspquick-facts">Quick Facts</a> ·
-<a href="#10-nbsplets-connect">Contact</a>
-</sub>
-
 </div>
-
-<img src="./assets/stats-strip.svg" width="100%" alt="Impact at a glance — 2+ projects, 2 internships, 2 certifications, 8.3 CGPA" />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -158,13 +142,6 @@ print(me.pipeline(raw_data="chaos"))
 | Reporting &amp; BI | Power BI · DAX · Power Query · Excel | `███████░░░` Working |
 | Version control | Git · GitHub · VS Code | `████████░░` Strong |
 
-<div align="center">
-<br/>
-<img src="./assets/skills-radar.svg" width="440" alt="Skill proficiency radar — Python, SQL, Machine Learning, NLP, Power BI, Database Design" />
-</div>
-
-<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
-
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 ## `03` &nbsp;How a Project Moves Through My Hands
@@ -239,8 +216,6 @@ this space fills in as each one ships.
 </tr>
 </table>
 
-<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
-
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 ## `05` &nbsp;Experience &amp; Education
@@ -274,8 +249,6 @@ Kongunadu College of Engineering and Technology
 </td>
 </tr>
 </table>
-
-<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -314,46 +287,9 @@ MLOps basics      █████░░░░░░░░░░  32%   Docker ·
 LLM applications  ██████░░░░░░░░░  38%   Prompting · embeddings · RAG
 ```
 
-<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
-
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## `08` &nbsp;Timeline
-
-<table>
-<tr><td width="14%" align="center"><b>2024</b></td><td width="86%">🎓 Graduated B.E. Electrical &amp; Electronics Engineering — CGPA 8.3, Kongunadu College of Engineering and Technology</td></tr>
-<tr><td align="center"><b>Jan '24</b></td><td>🗄️ Started SQL Developer Internship at Besant Technology — joins, views, stored procedures, triggers</td></tr>
-<tr><td align="center"><b>May '24</b></td><td>🧠 Data Science Internship at Coapps.ai + Data Science certification</td></tr>
-<tr><td align="center"><b>2024</b></td><td>🏥 Built Apollocare Hospital Management System — full relational DB design</td></tr>
-<tr><td align="center"><b>2024</b></td><td>🛒 Shipped Amazon Review NLP sentiment classifier (TF-IDF + Scikit-learn)</td></tr>
-<tr><td align="center"><b>2024</b></td><td>🦟 Final-year project — AI-Enhanced Herbal Mosquito Repellent Kit</td></tr>
-<tr><td align="center"><b>Now</b></td><td>📈 Deepening Deep Learning, MLOps basics and LLM application skills — open to full-time roles</td></tr>
-</table>
-
-<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## `09` &nbsp;Quick Facts
-
-<div align="center">
-
-| | |
-|---|---|
-| 🦟 | Built an AI system whose entire job is detecting mosquitoes and firing back with herbal repellent |
-| 🗄️ | Thinks in `JOIN`s before breakfast — SQL is where the DS journey actually started |
-| 📊 | Believes a dashboard has failed if someone has to ask "so what does this mean?" |
-| ☕ | Cleaner code, and cleaner data, after coffee #2 |
-| 🎯 | 8.3 CGPA in Electrical & Electronics Engineering — proof that a non-CS background is not a blocker |
-| 🌱 | Currently teaching myself Deep Learning and MLOps, one broken Docker container at a time |
-
-</div>
-
-<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## `10` &nbsp;Let's Connect
+## `08` &nbsp;Let's Connect
 
 <div align="center">
 
@@ -363,15 +299,10 @@ full-time, Chennai or remote. Always happy to talk data.
 <a href="mailto:kumar109662@gmail.com"><img src="https://img.shields.io/badge/Email%20me-5fe3c8?style=for-the-badge&labelColor=070b10&logo=gmail&logoColor=5fe3c8" alt="Email me" /></a>
 <a href="https://www.linkedin.com/in/sathishkumar-sivakumar/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-5fe3c8?style=for-the-badge&labelColor=070b10&logo=linkedin&logoColor=5fe3c8" alt="LinkedIn" /></a>
 <a href="https://github.com/SathishkumarSivakumar?tab=repositories"><img src="https://img.shields.io/badge/Browse%20Repos-5fe3c8?style=for-the-badge&labelColor=070b10&logo=github&logoColor=5fe3c8" alt="Repos" /></a>
-<a href="https://sathishkumar-sivakumar.netlify.app"><img src="https://img.shields.io/badge/View%20Portfolio-f2a154?style=for-the-badge&labelColor=070b10&logo=vercel&logoColor=f2a154" alt="Portfolio" /></a>
 
 <br/><br/>
 
 > ### "Turning data into insights, and insights into impact."
-
-<br/>
-
-<sub><a href="#top">↑ back to top</a></sub>
 
 </div>
 
