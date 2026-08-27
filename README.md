@@ -14,7 +14,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:7e22ce,100:a855f7&height=220&section=header&text=Sathishkumar%20S&fontSize=54&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20NLP%20%C2%B7%20Business%20Intelligence&descAlign=50&descAlignY=58&descSize=16&animation=fadeIn" alt="Sathishkumar S banner" />
 
 <a href="https://github.com/SathishkumarSivakumar">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=0EA5E9&center=true&vCenter=true&width=760&lines=Turning+Raw+Data+%E2%86%92+Insights+%E2%86%92+Intelligent+Systems;Python+%7C+SQL+%7C+Machine+Learning+%7C+NLP+%7C+Power+BI;Building+models+that+ship%2C+not+just+notebooks." alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=760&lines=Turning+Raw+Data+%E2%86%92+Insights+%E2%86%92+Intelligent+Systems;Python+%7C+SQL+%7C+Machine+Learning+%7C+NLP+%7C+Power+BI;Building+models+that+ship%2C+not+just+notebooks." alt="Typing headline" />
 </a>
 
 <br/>
@@ -22,7 +22,7 @@
 <!-- STATUS PILLS -->
 <img src="https://img.shields.io/badge/Open%20to-Data%20Science%20Roles-a855f7?style=for-the-badge&labelColor=1e1b4b" alt="Open to work" />
 <img src="https://img.shields.io/badge/Based%20in-Chennai%2C%20India-7e22ce?style=for-the-badge&labelColor=1e1b4b" alt="Location" />
-<img src="https://img.shields.io/badge/Focus-ML%20%C2%B7%20NLP%20%C2%B7%20BI-111827?style=for-the-badge&labelColor=1e1b4b" alt="Focus" />
+<img src="https://img.shields.io/badge/Focus-ML%20%C2%B7%20NLP%20%C2%B7%20BI-ec4899?style=for-the-badge&labelColor=1e1b4b" alt="Focus" />
 
 <br/><br/>
 
@@ -37,7 +37,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SathishkumarSivakumar&label=Profile%20Views&color=a855f7&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=SathishkumarSivakumar&label=Profile%20Views&color=a855f7&style=flat-square&base=timestamp" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/SathishkumarSivakumar?label=Followers&style=flat-square&color=a855f7&labelColor=1e1b4b" alt="Followers" />
 <img src="https://img.shields.io/github/stars/SathishkumarSivakumar?label=Total%20Stars&style=flat-square&color=a855f7&labelColor=1e1b4b" alt="Stars" />
 
