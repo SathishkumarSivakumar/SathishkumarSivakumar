@@ -11,7 +11,7 @@
 <!-- ════════════════ HERO ════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Sathishkumar%20S&fontSize=54&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20NLP%20%C2%B7%20Business%20Intelligence&descAlign=50&descAlignY=58&descSize=16&animation=fadeIn" alt="Sathishkumar S banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:7e22ce,100:a855f7&height=220&section=header&text=Sathishkumar%20S&fontSize=54&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20NLP%20%C2%B7%20Business%20Intelligence&descAlign=50&descAlignY=58&descSize=16&animation=fadeIn" alt="Sathishkumar S banner" />
 
 <a href="https://github.com/SathishkumarSivakumar">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=0EA5E9&center=true&vCenter=true&width=760&lines=Turning+Raw+Data+%E2%86%92+Insights+%E2%86%92+Intelligent+Systems;Python+%7C+SQL+%7C+Machine+Learning+%7C+NLP+%7C+Power+BI;Building+models+that+ship%2C+not+just+notebooks." alt="Typing headline" />
@@ -20,9 +20,9 @@
 <br/>
 
 <!-- STATUS PILLS -->
-<img src="https://img.shields.io/badge/Open%20to-Data%20Science%20Roles-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="Open to work" />
-<img src="https://img.shields.io/badge/Based%20in-Chennai%2C%20India-1e3a8a?style=for-the-badge&labelColor=0f172a" alt="Location" />
-<img src="https://img.shields.io/badge/Focus-ML%20%C2%B7%20NLP%20%C2%B7%20BI-111827?style=for-the-badge&labelColor=0f172a" alt="Focus" />
+<img src="https://img.shields.io/badge/Open%20to-Data%20Science%20Roles-a855f7?style=for-the-badge&labelColor=1e1b4b" alt="Open to work" />
+<img src="https://img.shields.io/badge/Based%20in-Chennai%2C%20India-7e22ce?style=for-the-badge&labelColor=1e1b4b" alt="Location" />
+<img src="https://img.shields.io/badge/Focus-ML%20%C2%B7%20NLP%20%C2%B7%20BI-111827?style=for-the-badge&labelColor=1e1b4b" alt="Focus" />
 
 <br/><br/>
 
@@ -37,9 +37,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SathishkumarSivakumar&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/SathishkumarSivakumar?label=Followers&style=flat-square&color=0ea5e9&labelColor=0f172a" alt="Followers" />
-<img src="https://img.shields.io/github/stars/SathishkumarSivakumar?label=Total%20Stars&style=flat-square&color=0ea5e9&labelColor=0f172a" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=SathishkumarSivakumar&label=Profile%20Views&color=a855f7&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/SathishkumarSivakumar?label=Followers&style=flat-square&color=a855f7&labelColor=1e1b4b" alt="Followers" />
+<img src="https://img.shields.io/github/stars/SathishkumarSivakumar?label=Total%20Stars&style=flat-square&color=a855f7&labelColor=1e1b4b" alt="Stars" />
 
 </div>
 
@@ -93,7 +93,7 @@ class SathishkumarS:
 ```
 
 <div align="center">
-<img src="https://img.shields.io/badge/Currently-Deep%20Learning%20%2B%20MLOps-0ea5e9?style=flat-square&labelColor=0f172a" alt="Currently learning" />
+<img src="https://img.shields.io/badge/Currently-Deep%20Learning%20%2B%20MLOps-a855f7?style=flat-square&labelColor=1e1b4b" alt="Currently learning" />
 </div>
 
 </td>
@@ -171,7 +171,7 @@ interactive Power BI dashboard tracking revenue, region and product mix.
 
 `SQL` `Pandas` `Power BI` `DAX`
 
-<a href="https://github.com/SathishkumarSivakumar"><img src="https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=white" alt="repo" /></a>
+<a href="https://github.com/SathishkumarSivakumar"><img src="https://img.shields.io/badge/View%20Repo-1e1b4b?style=flat-square&logo=github&logoColor=white" alt="repo" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -182,7 +182,7 @@ neutral, with TF-IDF features and a Logistic Regression baseline.
 
 `NLTK` `spaCy` `Scikit-learn` `TF-IDF`
 
-<a href="https://github.com/SathishkumarSivakumar"><img src="https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=white" alt="repo" /></a>
+<a href="https://github.com/SathishkumarSivakumar"><img src="https://img.shields.io/badge/View%20Repo-1e1b4b?style=flat-square&logo=github&logoColor=white" alt="repo" /></a>
 
 </td>
 </tr>
@@ -195,7 +195,7 @@ splits, cross-validation and clearly reported evaluation metrics.
 
 `Scikit-learn` `NumPy` `Matplotlib`
 
-<a href="https://github.com/SathishkumarSivakumar"><img src="https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=white" alt="repo" /></a>
+<a href="https://github.com/SathishkumarSivakumar"><img src="https://img.shields.io/badge/View%20Repo-1e1b4b?style=flat-square&logo=github&logoColor=white" alt="repo" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -206,7 +206,7 @@ functions built during hands-on database development work.
 
 `MySQL` `Stored Procedures` `Query Tuning`
 
-<a href="https://github.com/SathishkumarSivakumar"><img src="https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=white" alt="repo" /></a>
+<a href="https://github.com/SathishkumarSivakumar"><img src="https://img.shields.io/badge/View%20Repo-1e1b4b?style=flat-square&logo=github&logoColor=white" alt="repo" /></a>
 
 </td>
 </tr>
@@ -248,14 +248,14 @@ Deep Learning · MLOps · LLM applications · advanced SQL performance.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SathishkumarSivakumar&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=0ea5e9&icon_color=0ea5e9&text_color=cbd5e1&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.demolab.com?user=SathishkumarSivakumar&hide_border=true&theme=tokyonight&background=0f172a&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" alt="Streak stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SathishkumarSivakumar&show_icons=true&hide_border=true&theme=radical&bg_color=1e1b4b&title_color=a855f7&icon_color=a855f7&text_color=cbd5e1&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-streak-stats.demolab.com?user=SathishkumarSivakumar&hide_border=true&theme=radical&background=1e1b4b&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="Streak stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathishkumarSivakumar&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=0ea5e9&text_color=cbd5e1" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathishkumarSivakumar&layout=compact&langs_count=8&hide_border=true&theme=radical&bg_color=1e1b4b&title_color=a855f7&text_color=cbd5e1" alt="Top languages" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SathishkumarSivakumar&bg_color=0f172a&color=cbd5e1&line=0ea5e9&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SathishkumarSivakumar&bg_color=1e1b4b&color=cbd5e1&line=a855f7&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=SathishkumarSivakumar&theme=nord&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="GitHub trophies" />
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=SathishkumarSivakumar&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="GitHub trophies" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -293,6 +293,6 @@ collaborations and open-source contributions.
 
 > ### “Turning data into insights, and insights into impact.”
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=72&animation=fadeIn" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7e22ce,100:1e1b4b&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=72&animation=fadeIn" width="100%" alt="footer" />
 
 </div>
